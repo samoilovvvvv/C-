@@ -1,0 +1,21 @@
+﻿Сборка начата 04.06.2019 19:17:01.
+     1>Проект "D:\My_projects_С++\TIIT3laba2sem3version\TIIT3laba2sem3version\TIIT3laba2sem3version.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+     1>d:\my_projects_с++\tiit3laba2sem3version\tiit3laba2sem3version\исходный код.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+                 d:\my_projects_с++\tiit3laba2sem3version\tiit3laba2sem3version\исходный код.cpp(53): см. ссылку на создание экземпляров функции шаблон при компиляции "std::set<std::vector<std::string,std::allocator<_Ty>>,std::less<std::vector<_Ty,std::allocator<_Ty>>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> CreateSets<std::string>(const std::vector<_Ty,std::allocator<_Ty>> &)"
+                 with
+                 [
+                     _Ty=std::string
+                 ]
+     1>d:\my_projects_с++\tiit3laba2sem3version\tiit3laba2sem3version\исходный код.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\my_projects_с++\tiit3laba2sem3version\tiit3laba2sem3version\исходный код.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My_projects_С++\TIIT3laba2sem3version\Debug\TIIT3laba2sem3version.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\My_projects_С++\TIIT3laba2sem3version\Debug\TIIT3laba2sem3version.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\My_projects_С++\TIIT3laba2sem3version\Debug\TIIT3laba2sem3version.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         TIIT3laba2sem3version.vcxproj -> D:\My_projects_С++\TIIT3laba2sem3version\Debug\TIIT3laba2sem3version.exe
+     1>Сборка проекта "D:\My_projects_С++\TIIT3laba2sem3version\TIIT3laba2sem3version\TIIT3laba2sem3version.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.66

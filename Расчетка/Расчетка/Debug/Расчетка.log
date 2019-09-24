@@ -1,0 +1,17 @@
+﻿Сборка начата 13.05.2019 17:15:38.
+     1>Проект "D:\My_projects_С++\Расчетка\Расчетка\Расчетка.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MaxCut.cpp
+         MaxCut.cpp
+     1>d:\my_projects_с++\расчетка\расчетка\maxcut.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\my_projects_с++\расчетка\расчетка\maxcut.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\my_projects_с++\расчетка\расчетка\maxcut.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\my_projects_с++\расчетка\расчетка\maxcut.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My_projects_С++\Расчетка\Debug\Расчетка.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\My_projects_С++\Расчетка\Debug\Расчетка.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\My_projects_С++\Расчетка\Debug\Расчетка.lib" /MACHINE:X86 Debug\MaxCut.obj
+         Расчетка.vcxproj -> D:\My_projects_С++\Расчетка\Debug\Расчетка.exe
+     1>Сборка проекта "D:\My_projects_С++\Расчетка\Расчетка\Расчетка.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.29
